@@ -1,3 +1,3 @@
-module clockface_test
+module clockface
 
 go 1.18
